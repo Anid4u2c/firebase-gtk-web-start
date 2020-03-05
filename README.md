@@ -1,4 +1,4 @@
-# firebase-gtk-web-start
+# Get to know Firebase for Web
 
 [CodeLab](https://google.dev/codelabs/firebase-get-to-know-web?return=/topics/firebase)
 
